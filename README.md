@@ -2,7 +2,7 @@
 A data analytics internship project analyzing academic performance for 15,000 students to identify what actually drives outcomes — and to flag at-risk students for early intervention.
 
 **Built for:** Data Analytics Internship · **Institute:** Sipalaya Infotech
-**Dataset source:** [Student Performance Dataset — Kaggle](https://www.kaggle.com/)
+**Dataset source:** [Student Performance Dataset — Kaggle](https://www.kaggle.com/).  
 **By:** Dibesh Shrestha
 
 ## Objective
