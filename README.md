@@ -3,6 +3,7 @@ A data analytics internship project analyzing academic performance for 15,000 st
 
 **Built for:** Data Analytics Internship · **Institute:** Sipalaya Infotech
 **Dataset source:** [Student Performance Dataset — Kaggle](https://www.kaggle.com/)
+**By:** Dibesh Shrestha
 
 ## Objective
 Analyze student academic performance and identify the factors affecting grades, attendance, and outcomes, in order to flag at-risk students early.
